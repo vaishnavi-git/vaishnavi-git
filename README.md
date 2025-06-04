@@ -1,7 +1,7 @@
 # Hi, I'm Vaishnavi Karingala! 👋
 
 🌍 **Cloud-loving data analyst in training**  
-📊 **MSBA @ CSUEB**  
+📊 **Masters in Business Analytics @ CSU East Bay**  
 ☁️ **Aspiring Data & Business Analyst**  
 _building data pipelines that don’t break and dashboards that speak_
 
